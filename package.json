@@ -1,0 +1,11 @@
+{
+  "name": "@jarsbe/genesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sketch": "cp -R template sketches/$NAME"
+  },
+  "author": "",
+  "license": "ISC"
+}
